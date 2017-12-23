@@ -1,5 +1,5 @@
 HOMEBREW_ZKCLI_VERSION = "0.1.0".freeze
-HOMEBREW_ZKCLI_SHA = "8035f4a7c24dae15d12215e56e0ef809ab9ca55e83bc61e81dd7a938b6ecca75".freeze
+HOMEBREW_ZKCLI_SHA = "f6453d6a8941bb2c0feae08acf73211bda4c8f2fc43fdaaf458989dc2889b9ec".freeze
 
 class Zkcli < Formula
   desc "zkcli"
