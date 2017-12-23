@@ -1,8 +1,6 @@
 # homebrew-zkcli
 
-homesbrew taps formula
-
-for homesbrew taps formula
+homesbrew taps formula for zkcli.
 
 ## add homebrew taps
 
